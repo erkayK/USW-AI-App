@@ -23,6 +23,8 @@ Kann Sentiment zur Vorhersage von Kursen genutzt werden?
 https://www.kaggle.com/datasets/omermetinn/tweets-about-the-top-companies-from-2015-to-2020
 https://www.kaggle.com/datasets/omermetinn/values-of-top-nasdaq-copanies-from-2010-to-2020
 Es müssen zusätzlich die CSVs installiert werden. "Company.csv" ist in beiden Datasets gleich.
+Die CSV "CompanyValues.csv" muss in den Ordner "Datasets/raw/company_values" und "Company_Tweet.csv" und "Tweet.csv" 
+müssen in den Ordner "Datasets/raw/tweets_top_companies"
 
 **📑 Schritte der Analyse**
 - ✅ 1. Data Understanding (Import der CSV-Dateien (Tweets, Unternehmen, Aktienkurse).
